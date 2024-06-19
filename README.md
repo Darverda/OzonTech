@@ -21,3 +21,19 @@
 
 ![Схема Компонентов](https://github.com/Darverda/OzonTech/assets/80327959/42efca6d-e04a-4e39-8c43-ecc757f61604)
 
+**Обратная связь**
+
+Для акцентирования на преимуществах сервиса, можно добавить, что клиент может получить *все необходимые* закрывающие документы на платформе, вместо *закрывающие документы*
+
+Оплачивайте дорогу и проживание в командировках на одной платформе. В Ozon Travel вы можете получить все необходимые закрывающие документы.
+
+Вместо *напишите в чат* - *вы можете написать в чат*. Выглядит и звучит более официально и красиво.
+
+По вопросам, связанным с покупкой билетов или предстоящей поездкой, *вы можете написать в чат Ozon Travel*. Чат-бот поможет вам вернуть билеты, отменить бронирование отеля, рассчитать сумму возврата и обработает другие запросы. В нестандартных ситуациях к чату подключится оператор. Если у вас вопрос по оформленному заказу, будьте готовы назвать его номер в формате Z-12345678-0001 или 12345678-0001.
+
+**Переводы**
+
+*Ozon Fresh главный экран мобильного приложения*
+
+At the top of the screen, there is an address to where order will be delivered. Below the address, there is a search bar, where users can type in the name or category of the product they are looking for. Further down, there is a scrolling banner displaying various promotions and deals. This banner is visually appealing and designed to catch the user's attention. Underneath the banner, users can see the most popular categories as sales, previous orders and Q&A, different promotions and promocodes. Below all the promotions, user can choose the category for search as “Ozon Fresh products” or “vegetables and fruits“. At the very bottom of the screen, there is a navigation bar with such icons as “Ozon Fresh”, “Catalog”, “Cart” and “Favourite”.
+
